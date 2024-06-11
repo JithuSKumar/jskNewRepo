@@ -2,7 +2,7 @@ package inheritance;
 
 public class SingleInheritanceParent {
 	
-	public void Add()
+	public void add()
 	{
 		int a = 6;
 		int b= 7;
