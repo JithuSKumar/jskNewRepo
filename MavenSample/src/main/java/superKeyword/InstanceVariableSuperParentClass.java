@@ -1,6 +1,6 @@
 package superKeyword;
 
-public class SuperParentClass {
+public class InstanceVariableSuperParentClass {
 	
 	String wordString = "Apple";
 

@@ -1,6 +1,6 @@
 package superKeyword;
 
-public class SuperChildClass extends SuperParentClass {
+public class InstanceVariableSuperChildClass extends InstanceVariableSuperParentClass {
 	
 	String wordString = "ball";
 	
@@ -12,7 +12,7 @@ public class SuperChildClass extends SuperParentClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SuperChildClass objNameChildClass = new SuperChildClass();
+		InstanceVariableSuperChildClass objNameChildClass = new InstanceVariableSuperChildClass();
 		objNameChildClass.displayofChildClass();
 
 	}
