@@ -1,12 +1,15 @@
 package encapsulation;
 
-public class ChildClass extends ParentClass {
+public class ChildClass {
 
 	public static void main(String[] args) {
 
-		ChildClass objChildClass = new ChildClass();
-		objChildClass.setName("abc");
-		objChildClass.getName();
+
+		// create object of previous class
+
+		ParentClass objParentClass = new ParentClass();
+		objParentClass.setName("abc");
+		objParentClass.getName();
 	}
 
 }
