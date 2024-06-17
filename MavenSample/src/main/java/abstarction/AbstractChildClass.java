@@ -21,7 +21,8 @@ public class AbstractChildClass extends AbstractClass {
 	
 	public void details(int a)
 	{
-		System.out.println(a);
+		System.out.println("Content from non abstract method of"
+				+ " child class " +a);
 	}
 
 }
