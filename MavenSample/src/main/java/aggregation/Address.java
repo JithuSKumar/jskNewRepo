@@ -8,7 +8,7 @@ public class Address
     String state;
     int pinCode;
 
-    String checkString;
+    String checkString;//for my purpose
     
     // Constructor
    public Address(String street, String city, String state, int pinCode, String checkString) {
@@ -16,7 +16,7 @@ public class Address
         this.city = city;
         this.state = state;
         this.pinCode = pinCode;
-        this.checkString= checkString;
+        this.checkString= checkString;//my purpose
     }
 
     // Instance Method to display address details
