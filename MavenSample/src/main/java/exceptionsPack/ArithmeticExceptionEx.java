@@ -1,6 +1,6 @@
 package exceptionsPack;
 
-public class ArithmeticException {
+public class ArithmeticExceptionEx {
 
 	public static void main(String[] args) {
 		int a= 10;

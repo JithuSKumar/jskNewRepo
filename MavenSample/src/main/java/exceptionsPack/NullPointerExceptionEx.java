@@ -1,7 +1,7 @@
 package exceptionsPack;
 
 
-public class NullPointerException {
+public class NullPointerExceptionEx {
 
 
 
