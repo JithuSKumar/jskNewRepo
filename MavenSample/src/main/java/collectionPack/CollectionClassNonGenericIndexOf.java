@@ -15,6 +15,8 @@ public class CollectionClassNonGenericIndexOf {
 	        list.add(6);
 	        list.add(1.1f);
 	        list.add(6);
+	        
+	        System.out.println(list);
 			
 			int firstOccurrence = list.indexOf(6);//indexof() to find the first occurrence of 2 in the set 
 			System.out.println(firstOccurrence);

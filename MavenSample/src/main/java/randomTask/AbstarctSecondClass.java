@@ -1,12 +1,11 @@
 package randomTask;
 
-import abstarction.AbstractChildClass;
 
 public class AbstarctSecondClass extends AbstarctFirstClass {
 
 public static void main(String[] args) {
 		
-		AbstractChildClass objAbstractChildClass = new AbstractChildClass();
+	AbstarctSecondClass objAbstractChildClass = new AbstarctSecondClass();
 		objAbstractChildClass.details();
 		objAbstractChildClass.display();
 		objAbstractChildClass.details(5);

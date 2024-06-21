@@ -1,6 +1,6 @@
 package randomTask;
 
-import java.awt.DisplayMode;
+
 
 public class Aggeration1 {
 	
